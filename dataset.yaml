@@ -1,0 +1,7 @@
+train: /Users/aswathk/Developer/DataScience/DeepLearning/YOLO/football/yolo_new/images/train
+val: /Users/aswathk/Developer/DataScience/DeepLearning/YOLO/football/yolo_new/images/val
+# test: ../test/images
+
+nc: 2
+names: ['player','football']
+
